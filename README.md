@@ -1,4 +1,4 @@
-#pifm-node
+# pifm-node
  
 A Node.js software to play musics on a __FM radio__ in command line.  
 Only on Raspberry Pi.
@@ -7,11 +7,11 @@ Only on Raspberry Pi.
 
 ![](https://raw.githubusercontent.com/cedced19/pifm-node/master/demo.png)
 
-##What say laws ?
+## What say laws ?
 You do not have the right to broadcast radio in most countries.  
 I am __not__ at all responsible for your actions.  
 
-##Installation
+## Installation
 
 ```bash
 $ git clone --depth=1 --branch=master https://github.com/cedced19/pifm-node 
@@ -24,7 +24,7 @@ $ node pifm-node.js
 You can place your musics anywhere in the folder.
 
 
-##Configuration
+## Configuration
 
 You can change the frequency, rate or port on `config.json`
 
